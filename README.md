@@ -1,7 +1,9 @@
 ### Olá, Bem vindo(a) ao meu perfil! Eu sou o Vitor Manoel 👋
 
 - Atualmente morando e estudando em São Paulo - SP 🎉
-- Sou estudante do curso técnico de desenvolvimento de sistemas na Escola SENAI de Informática 👏
+- Estudante do curso técnico de desenvolvimento de sistemas na Escola SENAI de Informática 👏
+- Estou buscando uma oportortunidade como desenvolvedor 🎉
+- Email para contato: vitormanoelmelo1@gmail.com
 
 <div>
   <a href="https://github.com/vitormanoel-melo">
