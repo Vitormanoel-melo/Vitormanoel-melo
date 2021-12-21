@@ -2,7 +2,7 @@
 
 - Atualmente morando e estudando em São Paulo - SP 🎉
 - Estudante do curso técnico de desenvolvimento de sistemas na Escola SENAI de Informática 👏
-- Estou buscando uma oportunidade como desenvolvedor
+- Estou buscando uma oportunidade de emprego como desenvolvedor
 - Email para contato: vitormanoelmelo1@gmail.com
 
 <div>
