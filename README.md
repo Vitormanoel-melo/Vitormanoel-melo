@@ -1,7 +1,7 @@
 ### Olá, Bem vindo(a) ao meu perfil! Eu sou o Vitor Manoel 👋
 
-- Atualmente morando e estudando em São Paulo - SP 🎉
-- Estudante do curso técnico de desenvolvimento de sistemas na Escola SENAI de Informática 👏
+- Tenho 18 anos e atualmente estou morando e estudando em São Paulo - SP 🎉
+- Sou formado em Técnico de Desenvolvimento de Sistemas na Escola SENAI de Informática 👏
 - Estou buscando uma oportunidade de emprego como desenvolvedor
 - Email para contato: vitormanoelmelo1@gmail.com
 
