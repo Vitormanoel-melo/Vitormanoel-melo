@@ -1,10 +1,9 @@
 ### Olá, Bem vindo(a) ao meu perfil! Eu sou o Vitor Manoel 👋
 
-- Tenho 18 anos e atualmente estou morando e estudando em São Paulo - SP 🎉
-- Sou formado em Técnico de Desenvolvimento de Sistemas na Escola SENAI de Informática 👏
-- Estou buscando uma oportunidade de emprego como desenvolvedor
-- Email para contato: vitormanoelmelo1@gmail.com
-
+- Formado em Técnico de Desenvolvimento de Sistemas na Escola SENAI de Informática 👏
+- 18 anos, atualmente morando e estudando em São Paulo - SP 🎉
+- Desenvolvedor na AJ Desenvolvimento
+<br />
 <div>
   <a href="https://github.com/vitormanoel-melo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormanoel-melo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,6 +22,8 @@
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ReactJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  
+  <img align="center" alt="MongoDB" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
 
 ##
