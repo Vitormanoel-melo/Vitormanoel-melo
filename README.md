@@ -1,8 +1,9 @@
 ### Olá, Bem vindo(a) ao meu perfil! Eu sou o Vitor Manoel 👋
 
-- Formado em Técnico de Desenvolvimento de Sistemas na Escola SENAI de Informática 👏
-- Atualmente morando e estudando em São Paulo - SP 🎉
-- Desenvolvedor na AJ Desenvolvimento
+- Graduated in Systems Development Technician at the Escola SENAI de Informática 👏
+- Currently living and studying in São Paulo - SP 🎉
+- Developer at AJ Desenvolvimento 💻
+- Currently improving my knowledge in .NET, Javascript, React Js and React Native
 <br />
 <div>
   <a href="https://github.com/vitormanoel-melo">
