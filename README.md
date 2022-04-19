@@ -1,4 +1,4 @@
-### Olá, Bem vindo(a) ao meu perfil! Eu sou o Vitor Manoel 👋
+### Hello, Welcome to my profile! I am Vitor Manoel 👋
 
 - Graduated in Systems Development Technician at the Escola SENAI de Informática 👏
 - Currently living and studying in São Paulo - SP 🎉
