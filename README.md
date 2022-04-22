@@ -1,7 +1,7 @@
 ### Hello, Welcome to my profile! I am Vitor Manoel 👋
 
 - Graduated in Systems Development Technician at the Escola SENAI de Informática 👏
-- Currently living and studying in São Paulo - SP 🎉
+- Currently living and studying in São Paulo - Brazil 🎉
 - Developer at AJ Desenvolvimento 💻
 - Currently improving my knowledge in .NET, Javascript, React Js and React Native
 <br />
