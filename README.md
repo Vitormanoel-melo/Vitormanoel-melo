@@ -1,9 +1,10 @@
-### Hello, Welcome to my profile! I am Vitor Manoel 👋
+### Hello, Welcome to my profile! I'm Vitor Manoel 👋
 
 - Graduated in Systems Development Technician at the Escola SENAI de Informática 👏
+- I'm looking to colaborate on nice projects ☕
+- I'm always interested in learning new things
 - Currently living and studying in São Paulo - Brazil 🎉
 - Developer at AJ Desenvolvimento 💻
-- Currently improving my knowledge in .NET, Javascript, React Js and React Native
 <br />
 <div>
   <a href="https://github.com/vitormanoel-melo">
