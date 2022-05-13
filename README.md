@@ -1,6 +1,6 @@
 ### Hello, Welcome to my profile! I'm Vitor Manoel 👋
 
-- Graduated in Systems Development Technician at the Escola SENAI de Informática 👏
+- Graduated in Systems Development Technician at the Escola SENAI de Informática 🏙
 - I'm looking to colaborate on nice projects ☕
 - I'm always interested in learning new things
 - Currently living and studying in São Paulo - Brazil 🎉
